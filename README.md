@@ -9,3 +9,9 @@
 
 - https://www.youtube.com/watch?v=wEfaoAa99XY
   > icons - https://boxicons.com/
+
+## responsive dropdown sidebar menu
+
+- https://www.youtube.com/watch?v=ES8vJcUqE7s&list=WL&index=10
+  > icons - https://boxicons.com/
+  > fonts - https://fonts.google.com/specimen/Poppins?query=poppins
